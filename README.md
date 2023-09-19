@@ -58,3 +58,8 @@ this is a new line.
 To start a new paragraph, leave an empty line between two lines of text.
 
 This is a new paragraph.
+
+1.Create a yellow background  
+2.Create the first quad in the middle  
+3.Create the combination of 4 quads on the left  
+4.Create the combination of the same shape of 4 quads but differernt positions on the right
